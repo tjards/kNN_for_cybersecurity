@@ -1,6 +1,6 @@
 # Classifying malicious network traffic using k-NN
 
-This project using k-NN to classifiy malcious network traffic in the Intrusion Detection Evaluation Dataset (CICIDS2017) located [here](https://www.unb.ca/cic/datasets/ids-2017.html) .
+This project uses k-NN to classifiy malcious network traffic in the Intrusion Detection Evaluation Dataset (CICIDS2017) located [here](https://www.unb.ca/cic/datasets/ids-2017.html) .
 
 Specifically, we use the Friday, July 7, 2017 AFTERNOON dataset, which involves
 a port scan from Attacker Kali 205.174.165.73 on Victim Ubuntu16 205.174.165.68 (Local IP: 192.168.10.50)
